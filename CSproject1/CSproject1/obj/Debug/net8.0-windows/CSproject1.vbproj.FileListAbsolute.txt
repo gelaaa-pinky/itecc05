@@ -1,0 +1,17 @@
+C:\Users\REF2024\source\repos\CSproject1\CSproject1\obj\Debug\net8.0-windows\CSproject1.Form1.resources
+C:\Users\REF2024\source\repos\CSproject1\CSproject1\obj\Debug\net8.0-windows\CSproject1.vbproj.GenerateResource.cache
+C:\Users\REF2024\source\repos\CSproject1\CSproject1\obj\Debug\net8.0-windows\CSproject1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\REF2024\source\repos\CSproject1\CSproject1\obj\Debug\net8.0-windows\CSproject1.AssemblyInfoInputs.cache
+C:\Users\REF2024\source\repos\CSproject1\CSproject1\obj\Debug\net8.0-windows\CSproject1.AssemblyInfo.vb
+C:\Users\REF2024\source\repos\CSproject1\CSproject1\obj\Debug\net8.0-windows\CSproject1.vbproj.CoreCompileInputs.cache
+C:\Users\REF2024\source\repos\CSproject1\CSproject1\bin\Debug\net8.0-windows\CSproject1.exe
+C:\Users\REF2024\source\repos\CSproject1\CSproject1\bin\Debug\net8.0-windows\CSproject1.deps.json
+C:\Users\REF2024\source\repos\CSproject1\CSproject1\bin\Debug\net8.0-windows\CSproject1.runtimeconfig.json
+C:\Users\REF2024\source\repos\CSproject1\CSproject1\bin\Debug\net8.0-windows\CSproject1.dll
+C:\Users\REF2024\source\repos\CSproject1\CSproject1\bin\Debug\net8.0-windows\CSproject1.pdb
+C:\Users\REF2024\source\repos\CSproject1\CSproject1\obj\Debug\net8.0-windows\CSproject1.dll
+C:\Users\REF2024\source\repos\CSproject1\CSproject1\obj\Debug\net8.0-windows\refint\CSproject1.dll
+C:\Users\REF2024\source\repos\CSproject1\CSproject1\obj\Debug\net8.0-windows\CSproject1.pdb
+C:\Users\REF2024\source\repos\CSproject1\CSproject1\obj\Debug\net8.0-windows\CSproject1.genruntimeconfig.cache
+C:\Users\REF2024\source\repos\CSproject1\CSproject1\obj\Debug\net8.0-windows\ref\CSproject1.dll
+C:\Users\REF2024\source\repos\CSproject1\CSproject1\obj\Debug\net8.0-windows\CSproject1.Resources.resources
